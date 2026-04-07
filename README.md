@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![PyPI version](https://badge.fury.io/py/turboquant.svg)](https://badge.fury.io/py/turboquant)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -447,9 +446,9 @@ If you use TurboQuant in your research, please cite:
 ```bibtex
 @software{turboquant2024,
   title = {TurboQuant: 5-6x KV Cache Compression for LLMs},
-  author = {Anomaly},
+  author = {100xprompt},
   year = {2024},
-  url = {https://github.com/anomaly/turboquant}
+  url = {https://github.com/Nipurn123/turboquant}
 }
 ```
 
@@ -473,6 +472,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[⬆ Back to Top](#turboquant)**
 
-Made with ❤️ by [Anomaly](https://github.com/anomaly)
+Made with ❤️ by [100xprompt](https://github.com/Nipurn123)
 
 </div>

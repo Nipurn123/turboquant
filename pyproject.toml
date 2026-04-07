@@ -9,10 +9,10 @@ description = "5-6x KV Cache Compression for LLMs with Minimal Accuracy Loss"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Anomaly", email = "team@anomaly.dev"}
+    {name = "100xprompt", email = "contact@100xprompt.ai"}
 ]
 maintainers = [
-    {name = "Anomaly", email = "team@anomaly.dev"}
+    {name = "100xprompt", email = "contact@100xprompt.ai"}
 ]
 keywords = [
     "kv-cache",
@@ -80,11 +80,11 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/anomaly/turboquant"
-Documentation = "https://github.com/anomaly/turboquant#readme"
-Repository = "https://github.com/anomaly/turboquant.git"
-Issues = "https://github.com/anomaly/turboquant/issues"
-Changelog = "https://github.com/anomaly/turboquant/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Nipurn123/turboquant"
+Documentation = "https://github.com/Nipurn123/turboquant#readme"
+Repository = "https://github.com/Nipurn123/turboquant.git"
+Issues = "https://github.com/Nipurn123/turboquant/issues"
+Changelog = "https://github.com/Nipurn123/turboquant/blob/main/CHANGELOG.md"
 
 [tool.setuptools]
 packages = ["turboquant", "turboquant.core", "turboquant.backends", "turboquant.models", "turboquant.kernels"]
