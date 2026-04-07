@@ -4,7 +4,7 @@ First off, thank you for considering contributing to TurboQuant! It's people lik
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to team@anomaly.dev.
+This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to nipurn.agarwal@100xprompt.com.
 
 ## How Can I Contribute?
 
@@ -192,9 +192,9 @@ turboquant/
 
 ## Getting Help
 
-* GitHub Issues: https://github.com/anomaly/turboquant/issues
-* GitHub Discussions: https://github.com/anomaly/turboquant/discussions
-* Email: team@anomaly.dev
+* GitHub Issues: https://github.com/Nipurn123/turboquant/issues
+* GitHub Discussions: https://github.com/Nipurn123/turboquant/discussions
+* Email: nipurn.agarwal@100xprompt.com
 
 ## Recognition
 

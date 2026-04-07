@@ -9,10 +9,10 @@ description = "5-6x KV Cache Compression for LLMs with Minimal Accuracy Loss"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "100xprompt", email = "contact@100xprompt.ai"}
+    {name = "Nipun Agarwal", email = "nipurn.agarwal@100xprompt.com"}
 ]
 maintainers = [
-    {name = "100xprompt", email = "contact@100xprompt.ai"}
+    {name = "Nipun Agarwal", email = "nipurn.agarwal@100xprompt.com"}
 ]
 keywords = [
     "kv-cache",
