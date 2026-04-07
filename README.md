@@ -55,7 +55,7 @@ pip install turboquant
 ### From Source
 
 ```bash
-git clone https://github.com/anomaly/turboquant.git
+git clone https://github.com/Nipurn123/turboquant.git
 cd turboquant
 pip install -e .
 ```
